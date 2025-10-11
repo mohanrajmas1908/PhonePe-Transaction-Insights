@@ -1,0 +1,31 @@
+districts,Trans_Amount_Trillion,query,State,Transactions_Count_Crore
+bengaluru urban,19.93784,query1,,
+hyderabad,11.90694,query1,,
+pune,9.73022,query1,,
+jaipur,7.85409,query1,,
+rangareddy,7.15514,query1,,
+medchal malkajgiri,5.75888,query1,,
+visakhapatnam,4.19857,query1,,
+guntur,3.17453,query1,,
+patna,3.11076,query1,,
+khordha,2.99215,query1,,
+east godavari,2.97549,query1,,
+krishna,2.97506,query1,,
+mumbai suburban,2.89891,query1,,
+indore,2.85136,query1,,
+bhopal,2.84899,query1,,
+central delhi,2.79989,query1,,
+chittoor,2.67128,query1,,
+kolkata,2.65547,query1,,
+nashik,2.61829,query1,,
+thane,2.5398,query1,,
+,,query2,karnataka,24.19
+,,query2,maharashtra,23.25
+,,query2,telangana,21.13
+,,query2,andhra-pradesh,15.25
+,,query2,rajasthan,11.21
+,,query2,uttar-pradesh,8.68
+,,query2,delhi,8.16
+,,query2,madhya-pradesh,8.11
+,,query2,west-bengal,6.84
+,,query2,odisha,6.17

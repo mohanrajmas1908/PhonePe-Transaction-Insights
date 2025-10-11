@@ -1,0 +1,47 @@
+State_cleaned,Total_Amount_Trillion,query,districts
+Telangana,41.66,query1,
+Karnataka,40.68,query1,
+Maharashtra,40.37,query1,
+Andhra Pradesh,34.67,query1,
+Uttar Pradesh,26.89,query1,
+Rajasthan,26.34,query1,
+Madhya Pradesh,19.13,query1,
+Bihar,17.9,query1,
+West Bengal,15.58,query1,
+Odisha,12.26,query1,
+Tamil Nadu,11.94,query1,
+Delhi,11.64,query1,
+Gujarat,10.19,query1,
+Haryana,9.65,query1,
+Jharkhand,5.91,query1,
+Chhattisgarh,4.89,query1,
+Assam,3.46,query1,
+Kerala,3.08,query1,
+Punjab,2.98,query1,
+Uttarakhand,1.92,query1,
+Jammu and Kashmir,1.18,query1,
+Himachal Pradesh,0.69,query1,
+Goa,0.51,query1,
+Chandigarh,0.29,query1,
+Arunachal Pradesh,0.27,query1,
+Puducherry,0.24,query1,
+Dadra and Nagar Haveli and Daman and Diu,0.2,query1,
+Tripura,0.2,query1,
+Manipur,0.19,query1,
+Meghalaya,0.16,query1,
+Nagaland,0.13,query1,
+Sikkim,0.12,query1,
+Ladakh,0.09,query1,
+Andaman and Nicobar Islands,0.07,query1,
+Mizoram,0.05,query1,
+Lakshadweep,0.0,query1,
+,2791.3,query2,bengaluru urban
+,1666.97,query2,hyderabad
+,1362.23,query2,pune
+,1099.57,query2,jaipur
+,1001.72,query2,rangareddy
+,806.24,query2,medchal malkajgiri
+,587.8,query2,visakhapatnam
+,444.43,query2,guntur
+,435.51,query2,patna
+,418.9,query2,khordha

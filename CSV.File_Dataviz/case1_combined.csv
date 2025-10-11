@@ -1,0 +1,13 @@
+Transaction_type,Total_count_Crore,query,Year,Total_amount_Trillion
+Merchant payments,13023.8755,query1,,
+Peer-to-peer payments,8503.2447,query1,,
+Recharge & bill payments,1959.6756,query1,,
+Others,26.205,query1,,
+Financial Services,15.4209,query1,,
+,,query2,2024,129.62
+,,query2,2023,94.49
+,,query2,2022,64.27
+,,query2,2021,34.6
+,,query2,2020,14.64
+,,query2,2019,6.28
+,,query2,2018,1.62
